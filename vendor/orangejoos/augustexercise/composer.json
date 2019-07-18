@@ -9,6 +9,8 @@
         }	
     ],
     "require": {
-        "monolog/monolog": "1.0.*"
-    }
+        "monolog/monolog": "1.0.*",
+		"orangejoos/augustexercise": "dev-master"
+    },
+	"minimum-stability": "dev"
 }

@@ -51,18 +51,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/OrangeJoos/AugustExercise.git",
-            "reference": "6f159e5945abbc3e43ab509bc34f5b4100e3c098"
+            "reference": "9d78140d9340f36fdb89230828524d5d560c4485"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/OrangeJoos/AugustExercise/zipball/6f159e5945abbc3e43ab509bc34f5b4100e3c098",
-            "reference": "6f159e5945abbc3e43ab509bc34f5b4100e3c098",
+            "url": "https://api.github.com/repos/OrangeJoos/AugustExercise/zipball/9d78140d9340f36fdb89230828524d5d560c4485",
+            "reference": "9d78140d9340f36fdb89230828524d5d560c4485",
             "shasum": ""
         },
         "require": {
-            "monolog/monolog": "1.0.*"
+            "monolog/monolog": "1.0.*",
+            "orangejoos/augustexercise": "dev-master"
         },
-        "time": "2019-07-18T06:41:24+00:00",
+        "time": "2019-07-18T06:49:11+00:00",
         "type": "library",
         "installation-source": "dist",
         "notification-url": "https://packagist.org/downloads/",
