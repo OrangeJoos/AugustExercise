@@ -1,7 +1,6 @@
 {
     "name": "josh/augustexercise",
     "description": "Package made for August Exercise Plugin",
-    "type": "composer-plugin",
     "authors": [
         {
             "name": "Josh Smith",
