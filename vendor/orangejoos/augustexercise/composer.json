@@ -1,0 +1,14 @@
+{
+    "name": "orangejoos/augustexercise",
+    "description": "Package made for August Exercise Plugin",
+	"license": "proprietary",
+    "authors": [
+        {
+            "name": "Josh Smith",
+            "email": "101682425@student.swin.edu.au"
+        }	
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}

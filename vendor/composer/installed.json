@@ -1,1 +1,80 @@
-[]
+[
+    {
+        "name": "monolog/monolog",
+        "version": "1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Seldaek/monolog.git",
+            "reference": "b704c49a3051536f67f2d39f13568f74615b9922"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/b704c49a3051536f67f2d39f13568f74615b9922",
+            "reference": "b704c49a3051536f67f2d39f13568f74615b9922",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2011-10-24T09:39:02+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Monolog": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jordi Boggiano",
+                "email": "j.boggiano@seld.be",
+                "homepage": "http://seld.be",
+                "role": "Developer"
+            }
+        ],
+        "description": "Logging for PHP 5.3",
+        "homepage": "http://github.com/Seldaek/monolog",
+        "keywords": [
+            "log",
+            "logging"
+        ]
+    },
+    {
+        "name": "orangejoos/augustexercise",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/OrangeJoos/AugustExercise.git",
+            "reference": "6f159e5945abbc3e43ab509bc34f5b4100e3c098"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/OrangeJoos/AugustExercise/zipball/6f159e5945abbc3e43ab509bc34f5b4100e3c098",
+            "reference": "6f159e5945abbc3e43ab509bc34f5b4100e3c098",
+            "shasum": ""
+        },
+        "require": {
+            "monolog/monolog": "1.0.*"
+        },
+        "time": "2019-07-18T06:41:24+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "proprietary"
+        ],
+        "authors": [
+            {
+                "name": "Josh Smith",
+                "email": "101682425@student.swin.edu.au"
+            }
+        ],
+        "description": "Package made for August Exercise Plugin"
+    }
+]
