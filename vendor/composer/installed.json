@@ -43,39 +43,5 @@
             "log",
             "logging"
         ]
-    },
-    {
-        "name": "orangejoos/augustexercise",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/OrangeJoos/AugustExercise.git",
-            "reference": "9d78140d9340f36fdb89230828524d5d560c4485"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/OrangeJoos/AugustExercise/zipball/9d78140d9340f36fdb89230828524d5d560c4485",
-            "reference": "9d78140d9340f36fdb89230828524d5d560c4485",
-            "shasum": ""
-        },
-        "require": {
-            "monolog/monolog": "1.0.*",
-            "orangejoos/augustexercise": "dev-master"
-        },
-        "time": "2019-07-18T06:49:11+00:00",
-        "type": "library",
-        "installation-source": "dist",
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "proprietary"
-        ],
-        "authors": [
-            {
-                "name": "Josh Smith",
-                "email": "101682425@student.swin.edu.au"
-            }
-        ],
-        "description": "Package made for August Exercise Plugin"
     }
 ]

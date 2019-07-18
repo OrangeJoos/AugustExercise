@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "da834299d030aca0fe553e2e4f78a9e3",
+    "content-hash": "1f26df163386566c8eb5e289980af557",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -48,46 +48,12 @@
                 "logging"
             ],
             "time": "2011-10-24T09:39:02+00:00"
-        },
-        {
-            "name": "orangejoos/augustexercise",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/OrangeJoos/AugustExercise.git",
-                "reference": "9d78140d9340f36fdb89230828524d5d560c4485"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/OrangeJoos/AugustExercise/zipball/9d78140d9340f36fdb89230828524d5d560c4485",
-                "reference": "9d78140d9340f36fdb89230828524d5d560c4485",
-                "shasum": ""
-            },
-            "require": {
-                "monolog/monolog": "1.0.*",
-                "orangejoos/augustexercise": "dev-master"
-            },
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "proprietary"
-            ],
-            "authors": [
-                {
-                    "name": "Josh Smith",
-                    "email": "101682425@student.swin.edu.au"
-                }
-            ],
-            "description": "Package made for August Exercise Plugin",
-            "time": "2019-07-18T06:49:11+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
-    "stability-flags": {
-        "orangejoos/augustexercise": 20
-    },
+    "minimum-stability": "stable",
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

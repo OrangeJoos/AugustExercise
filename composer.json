@@ -9,8 +9,6 @@
         }	
     ],
     "require": {
-        "monolog/monolog": "1.0.*",
-		"orangejoos/augustplugin": "dev-master"
-    },
-	"minimum-stability": "dev"
+        "monolog/monolog": "1.0.*"
+    }
 }
