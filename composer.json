@@ -1,6 +1,7 @@
 {
     "name": "josh/augustexercise",
     "description": "Package made for August Exercise Plugin",
+	"license": "proprietary",
     "authors": [
         {
             "name": "Josh Smith",
