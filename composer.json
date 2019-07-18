@@ -1,8 +1,12 @@
-
 {
-	"name": "josh/AugustExercise",
-	"require": {
-		"monolog/monolog": "1.0",
-	}
-
+    "name": "josh/augustexercise",
+    "description": "Package made for August Exercise Plugin",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Josh Smith",
+            "email": "101682425@student.swin.edu.au"
+        }
+    ],
+    "require": {}
 }
