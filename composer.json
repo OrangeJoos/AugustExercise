@@ -1,6 +1,6 @@
 
 {
-	"name": "josh/customplugin",
+	"name": "josh/AugustExercise",
 	"require": {
 		"monolog/monolog": "1.0",
 	}
