@@ -8,5 +8,7 @@
             "email": "101682425@student.swin.edu.au"
         }	
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
 }
